@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @atharv-y
+- 👋 Hi, I’m Atharv
 - 👀 I’m interested in Data Science and AI/ML
-- 🌱 I’m currently learning Data Science Course with Python
-- 💞️ I’m looking to collaborate on Data Science Projects
-- 📫 How to reach me @atharvyande33@gmail.com
+- 📫 How to reach out to me @atharvyande33@gmail.com
 
 <!---
 atharv-y/atharv-y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
