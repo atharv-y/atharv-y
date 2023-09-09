@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Atharv
-- 👀 I’m interested in Data Science and AI/ML
+- 👀 I’m a Data Science enthusiast
 - 📫 How to reach out to me @atharvyande33@gmail.com
 
 <!---
